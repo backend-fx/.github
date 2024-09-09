@@ -8,7 +8,7 @@ This suite of libraries tries to standardize several recurring challenges when i
 |Persisted configuration settings|[Backend.Fx.ConfigurationSettings](https://github.com/backend-fx/Backend.Fx.ConfigurationSettings)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.ConfigurationSettings)|
 |Initial data seeding|[Backend.Fx.DataSeeding](https://github.com/backend-fx/Backend.Fx.DataSeeding)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.DataSeeding)|
 |Building blocks for Domain Driven Design|[Backend.Fx.Ddd](https://github.com/backend-fx/Backend.Fx.Ddd)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Ddd)|
-|Domain event raising and handling|[Backend.Fx.Ddd.Events](https://github.com/backend-fx/Backend.Fx.Ddd)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Ddd.Events)|
+|Domain event raising and handling|[Backend.Fx.Ddd.Events](https://github.com/backend-fx/Backend.Fx.Ddd?tab=readme-ov-file#backendfxdddevents-domain-events-implementation)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Ddd.Events)|
 |Injection and execution pipeline|[Backend.Fx.Execution](https://github.com/backend-fx/Backend.Fx.Execution)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Execution)|
 |Using SimpleInjector with Backend.Fx.Execution|[Backend.Fx.Execution.SimpleInjector](https://github.com/backend-fx/Backend.Fx.Execution.SimpleInjector)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Execution.SimpleInjector)|
 |Messaging over external message bus|[Backend.Fx.IntegrationEvents](https://github.com/backend-fx/Backend.Fx.IntegrationEvents)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.IntegrationEvents)|
