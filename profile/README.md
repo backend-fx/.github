@@ -10,7 +10,7 @@ This suite of libraries tries to standardize several recurring challenges when i
 |Initial data seeding|[Backend.Fx.DataSeeding](https://github.com/backend-fx/Backend.Fx.DataSeeding)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.DataSeeding)|
 |Building blocks for Domain Driven Design|[Backend.Fx.Ddd](https://github.com/backend-fx/Backend.Fx.Ddd)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Ddd)|
 |Injection and execution pipeline|[Backend.Fx.Execution](https://github.com/backend-fx/Backend.Fx.Execution)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Execution)|
-|Using Microsoft DI with Backend.Fx.Execution|[Backend.Fx.Execution.MicrosoftDependencyInjection](https://github.com/backend-fx/Backend.Fx.Execution.SimpleInjector)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Execution.MicrosoftDependencyInjection)|
+|Using Microsoft DI with Backend.Fx.Execution|[Backend.Fx.Execution.MicrosoftDependencyInjection](https://github.com/backend-fx/Backend.Fx.Execution.MicrosoftDependencyInjection)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Execution.MicrosoftDependencyInjection)|
 |Using SimpleInjector with Backend.Fx.Execution|[Backend.Fx.Execution.SimpleInjector](https://github.com/backend-fx/Backend.Fx.Execution.SimpleInjector)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Execution.SimpleInjector)|
 |Messaging over mediator|[Backend.Fx.Mediator](https://github.com/backend-fx/Backend.Fx.Mediator)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Mediator)|
 |Database creation and migration, id generation|[Backend.Fx.Persistence](https://github.com/backend-fx/Backend.Fx.Persistence)|![NuGet Version](https://img.shields.io/nuget/v/Backend.Fx.Persistence)|
